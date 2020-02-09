@@ -6,100 +6,100 @@
 6    android:versionName="2.1.20" >
 7
 8    <uses-sdk
-8-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:5-72
+8-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:7:5-46
 9        android:minSdkVersion="9"
-9-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:15-40
+9-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:7:5-46
 10        android:targetSdkVersion="21" />
-10-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:41-70
+10-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:7:15-44
 11
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:8:5-66
-12-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:8:22-64
+12-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:8:5-66
+12-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:8:22-64
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:9:5-78
-13-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:9:22-76
+13-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:9:5-78
+13-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:9:22-76
 14    <uses-permission android:name="android.permission.WAKE_LOCK" />
-14-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:10:5-67
-14-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:10:22-65
+14-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:10:5-67
+14-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:10:22-65
 15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:11:2-76
-15-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:11:19-74
+15-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:11:2-76
+15-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:11:19-74
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-16-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:12:2-77
-16-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:12:19-75
+16-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:12:2-77
+16-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:12:19-75
 17
 18    <uses-feature
-18-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:13:5-85
+18-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:13:5-85
 19        android:name="android.hardware.camera"
-19-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:13:19-57
+19-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:13:19-57
 20        android:required="false" />
-20-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:13:58-82
+20-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:13:58-82
 21    <uses-feature
-21-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:14:5-88
+21-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:14:5-88
 22        android:name="android.hardware.telephony"
-22-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:14:19-60
+22-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:14:19-60
 23        android:required="false" />
-23-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:14:61-85
+23-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:14:61-85
 24
 25    <supports-screens android:largeScreens="true" />
-25-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:16:5-52
-25-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:16:23-50
+25-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:16:5-52
+25-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:16:23-50
 26    <supports-screens android:xlargeScreens="true" />
-26-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:16:5-52
-26-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:17:23-51
+26-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:16:5-52
+26-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:17:23-51
 27
 28    <application
-28-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:5-36:19
+28-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:18:5-36:19
 29        android:allowBackup="false"
-29-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:141-168
+29-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:18:141-168
 30        android:debuggable="true"
 31        android:hardwareAccelerated="true"
-31-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:81-115
+31-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:18:81-115
 32        android:icon="@drawable/icon"
-32-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:18-47
+32-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:18:18-47
 33        android:label="@string/app_name"
-33-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:48-80
+33-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:18:48-80
 34        android:largeHeap="true" >
-34-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:116-140
+34-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:18:116-140
 35        <activity
-35-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:19:9-31:24
+35-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:19:9-31:24
 36            android:name="com.fishstix.dosboxfree.DBMain"
-36-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:19:19-64
+36-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:19:19-64
 37            android:configChanges="keyboardHidden|orientation|screenSize|navigation|keyboard"
-37-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:22:19-100
+37-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:22:19-100
 38            android:label="@string/app_name"
-38-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:20:19-51
+38-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:20:19-51
 39            android:theme="@style/Theme.Sherlock" >
-39-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:21:19-56
+39-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:21:19-56
 40            <intent-filter>
-40-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:23:13-26:29
+40-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:23:13-26:29
 41                <action android:name="android.intent.action.MAIN" />
-41-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:24:17-69
-41-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:24:25-66
+41-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:24:17-69
+41-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:24:25-66
 42
 43                <category android:name="android.intent.category.LAUNCHER" />
-43-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:25:17-77
-43-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:25:27-74
+43-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:25:17-77
+43-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:25:27-74
 44            </intent-filter>
 45            <intent-filter>
-45-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:27:13-30:29
+45-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:27:13-30:29
 46                <action android:name="com.fishstix.dosboxfree.START" />
-46-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:28:17-72
-46-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:28:25-69
+46-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:28:17-72
+46-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:28:25-69
 47
 48                <data android:mimeType="text/*" />
-48-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:29:17-51
-48-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:29:23-48
+48-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:29:17-51
+48-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:29:23-48
 49            </intent-filter>
 50        </activity>
 51        <activity
-51-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:32:9-34:106
+51-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:32:9-34:106
 52            android:name="com.fishstix.dosboxfree.dosboxprefs.DosBoxPreferences"
-52-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:33:13-81
+52-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:33:13-81
 53            android:configChanges="keyboardHidden|orientation|screenSize|navigation|keyboard"
-53-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:34:13-94
+53-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:34:13-94
 54            android:label="@string/app_name" />
-54-->/home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:32:19-51
+54-->/home/jimnarey/projects/dosbox_turbo_working/app/src/main/AndroidManifest.xml:32:19-51
 55    </application>
 56
 57</manifest>
