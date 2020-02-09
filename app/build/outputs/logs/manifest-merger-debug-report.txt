@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:3:7-40
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:5:7-35
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:4:7-31
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:6:7-37
+uses-sdk
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:5-72
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:5-72
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:5-72
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:5-72
+INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:5-72
+	android:targetSdkVersion
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:41-70
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:7:15-40
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:11:2-76
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:11:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:12:2-77
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:12:19-75
+uses-feature#android.hardware.camera
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:13:5-85
+	android:required
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:13:58-82
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.telephony
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:14:5-88
+	android:required
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:14:61-85
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:14:19-60
+supports-screens
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:16:5-52
+	android:largeScreens
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:16:23-50
+	android:xlargeScreens
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:17:23-51
+application
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:5-36:19
+	android:label
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:48-80
+	android:hardwareAccelerated
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:81-115
+	android:largeHeap
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:116-140
+	android:icon
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:18-47
+	android:allowBackup
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:18:141-168
+activity#com.fishstix.dosboxfree.DBMain
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:19:9-31:24
+	android:label
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:20:19-51
+	android:configChanges
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:22:19-100
+	android:theme
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:21:19-56
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:19:19-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:25:27-74
+intent-filter#action:name:com.fishstix.dosboxfree.START+data:mimeType:text/*
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:27:13-30:29
+action#com.fishstix.dosboxfree.START
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:28:17-72
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:28:25-69
+data
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:29:17-51
+	android:mimeType
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:29:23-48
+activity#com.fishstix.dosboxfree.dosboxprefs.DosBoxPreferences
+ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:32:9-34:106
+	android:label
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:32:19-51
+	android:configChanges
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:34:13-94
+	android:name
+		ADDED from /home/jimnarey/projects/dosbox_turbo_imp/app/src/main/AndroidManifest.xml:33:13-81
